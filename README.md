@@ -1,1 +1,1 @@
-sistema desenvolvido para cadastrar produtos ultilizando a biblioteca Flask
+sistema desenvolvido para cadastrar produtos utilizando a biblioteca Flask
